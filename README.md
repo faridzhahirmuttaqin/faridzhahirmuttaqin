@@ -1,88 +1,85 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Farid%20Zhahir%20Muttaqin&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Informatics%20Engineering%20Student%20%E2%80%A2%20Universitas%20Pancasila&descAlignY=55&descSize=18&descColor=00d9ff" width="100%" />
-</div>
 
-<div align="center">
-<a href="https://github.com/faridzhahirmuttaqin">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=Halo%2C+aku+Farid+%F0%9F%91%8B;Informatics+Engineering+Student+%F0%9F%8E%93;Algorithm+%26+Data+Structure+Enthusiast+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-</div>
+  <!-- Header Banner / Title -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,10,24,30&height=220&section=header&text=Farid%20Zhahir%20Muttaqin&fontSize=50&fontAlignY=35&animation=twinkling&desc=Informatics%20Engineering%20Student%20|%20Software%20Developer&descAlignY=62" width="100%" />
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=faridzhahirmuttaqin&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/faridzhahirmuttaqin?style=for-the-badge&logo=github&color=00d9ff&labelColor=0d1117" alt="Followers" />
-<img src="https://img.shields.io/badge/Focus-Algorithm-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Focus" />
-<img src="https://img.shields.io/badge/Status-Learning-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Status" />
-</div>
+  <!-- Animated Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&height=50&lines=Software+Engineering+Enthusiast;Building+Scalable+%26+Modern+Solutions;Always+Exploring+New+Technologies" alt="Typing SVG" />
+  </a>
 
----
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/faridzhahir">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:farid.zhahir@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
 
-## 👨‍💻 Tentang Aku
-
-- 🎓 Mahasiswa **Teknik Informatika** di Universitas Pancasila
-- 🧠 Passionate di **algoritma**, **struktur data**, & **problem solving**
-- 🌱 Sedang mendalami **Graph Theory** & **Web Development**
-- 🤝 Open for **collaboration** & **learning together**
-- ⚡ Fun fact: *Ngoding dulu, mikir belakangan* (jangan ditiru 😅)
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,vscode,linux&perline=9&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+### 🚀 About Me
+
+<p align="left">
+  Halo! Saya <b>Farid Zhahir Muttaqin</b>, mahasiswa <b>Teknik Informatika</b> di <b>Universitas Pancasila</b>. Saya memiliki minat besar dalam pengembangan perangkat lunak, arsitektur sistem, dan eksplorasi teknologi modern untuk memecahkan masalah di dunia nyata.
+</p>
+
+* 🎓 **Pendidikan:** S1 Teknik Informatika — Universitas Pancasila
+* 💻 **Fokus:** Full-Stack Development / Software Engineering / System Architecture
+* 🔭 **Sedang Mengerjakan:** Proyek aplikasi berbasis web dan eksplorasi sistem terdistribusi
+* 🎯 **Tujuan:** Berkontribusi pada proyek open-source dan membangun solusi teknologi yang berdampak luas
+
+---
+
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridzhahirmuttaqin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faridzhahirmuttaqin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-</div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=faridzhahirmuttaqin&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+| Kategori | Teknologi |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) |
+| **Database & Tools** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=faridzhahirmuttaqin&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies" />
+
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_KAMU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Farid's GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_KAMU&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_GITHUB_KAMU&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="800" />
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+### ⚡ Activity Snapshot
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faridzhahirmuttaqin&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-<a href="https://github.com/faridzhahirmuttaqin"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00d9ff" alt="GitHub" /></a>
-<a href="mailto:emailkamu@example.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" alt="Email" /></a>
-<a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn" /></a>
-<a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" alt="Instagram" /></a>
-</div>
-
-<div align="center">
-<i>⭐ "Talk is cheap. Show me the code." — Linus Torvalds</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
+```text
+Farid Zhahir Muttaqin
+├─ 🎓 Campus   : Universitas Pancasila
+├─ 💻 Major    : Teknik Informatika
+└─ ⚡ Status   : Building awesome software & learning continuously 🚀
